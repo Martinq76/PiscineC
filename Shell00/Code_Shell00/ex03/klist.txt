@@ -1,0 +1,5 @@
+Credentials cache: API:80EC2111-3ED3-44AE-90D1-4474D9684A1F
+        Principal: mqueguin@42.FR
+
+  Issued                Expires               Principal
+Aug  3 09:52:03 2020  Aug 10 09:52:03 2020  krbtgt/42.FR@42.FR
